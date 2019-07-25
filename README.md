@@ -1,2 +1,2 @@
-# SQL_HW
-SQL HW
+# SQL-Exercise
+Exercise using SQL queries 
